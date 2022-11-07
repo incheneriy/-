@@ -12,6 +12,7 @@ namespace OpenCVLib2
         /// </summary>
         /// изменения для mercurial 1
         /// изменения для mercurial 2
+        /// Hello,World
         [STAThread]
         static void Main()
         {
